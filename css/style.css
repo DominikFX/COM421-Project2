@@ -135,14 +135,18 @@ section {
   background-color: #feffd5;
 }
 
-#issue {
+#issue, #survey, #ads {
   background-color: #ffe9d5;
 }
 
-#privacy {
+#privacy, #study, #ai {
   background-color: #d5ffd8;
 }
 
 #navigation {
   background-color: #b6c8ff;
+}
+
+.q-pad {
+  padding-bottom: 0.5rem;
 }
